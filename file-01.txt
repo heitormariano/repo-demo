@@ -1,5 +1,5 @@
 file 01 text
 Reviewing Git
-studying about git
+Testing git commands
 
 
