@@ -1,4 +1,5 @@
 file 01 text
-new text
 Reviewing Git
+studying about git
+
 
